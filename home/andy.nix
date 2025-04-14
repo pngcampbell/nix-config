@@ -43,8 +43,8 @@
 
   programs.git = {
     enable = true;
-    userEmail = "alexktz@gmail.com";
-    userName = "Alex Kretzschmar";
+    userEmail = "andy@amcampbell.net";
+    userName = "Andy Campbell";
     diff-so-fancy.enable = true;
     lfs.enable = true;
     extraConfig = {

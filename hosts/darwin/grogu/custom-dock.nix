@@ -11,8 +11,10 @@
       "/Applications/Obsidian.app"
       "/Applications/Bitwarden.app"
       "/Applications/Notes.app"
+      "/Applications/Microsoft Word.app"
+      "/Applications/Microsoft Excel.app"
       "/Applications/Music.app"
-      "/Applications/System Settings.app"
+      "/Applications/System Settings.app"              
     ];
   };
 }
