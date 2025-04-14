@@ -36,7 +36,7 @@
 
       darwinConfigurations = {
         # personal
-        Grogu = libx.mkDarwin { hostname = "Grogu"; };
+        grogu = libx.mkDarwin { hostname = "grogu"; };
         bo-katan = libx.mkDarwin { hostname = "bo-katan"; };
         mandalorian = libx.mkDarwin { hostname = "mandalorian"; };
       };
